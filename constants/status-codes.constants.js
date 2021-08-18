@@ -1,0 +1,9 @@
+module.exports = {
+    SUCCESS: 200,
+    CREATED: 201,
+    DELETED: 202,
+    INCORRECT_REQUEST: 400,
+    WRONG_FILE_FORMAT: 300,
+    TOO_BIG_FILE: 3002,
+    ONLY_ONE_FILE_PER_TIME: 3003
+};
